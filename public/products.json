@@ -1,0 +1,40 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Chocolate",
+        "imageSrc": "https://banner2.cleanpng.com/20180216/vbq/kisspng-chocolate-bar-chocolate-tart-dark-chocolate-cocoa-chocolate-png-transparent-images-5a87186389dca9.8904005615188030435647.jpg",
+        "price": 3
+      },
+      {
+        "id": 2,
+        "name": "Salmon",
+        "imageSrc": "https://banner2.cleanpng.com/20180202/gqq/kisspng-hamburger-street-food-seafood-fast-food-delicious-food-5a75083ca536d4.0303044715176192606767.jpg",
+        "price": 25
+      },
+      {
+        "id": 3,
+        "name": "Oranges",
+        "imageSrc": "https://banner2.cleanpng.com/20171127/3d3/large-oranges-png-clipart-5a1c5d591eb703.6573302315118083451258.jpg",
+        "price": 2
+      },
+      {
+        "id": 4,
+        "name": "Coffee",
+        "imageSrc": "https://banner2.cleanpng.com/20171217/8aa/cup-coffee-png-5a37379a797281.1466299915135681544975.jpg",
+        "price": 2.5
+      },
+      {
+        "id": 5,
+        "name": "Burger",
+        "imageSrc": "https://banner2.cleanpng.com/20180131/afq/kisspng-whopper-hamburger-cheeseburger-burger-king-premium-fast-food-burger-5a725b35edda78.0012443215174438939743.jpg",
+        "price": 5
+      },
+      {
+        "id": 6,
+        "name": "Soda",
+        "imageSrc": "https://banner2.cleanpng.com/20171216/bc5/coca-cola-drink-png-image-5a34b4d9082a29.6089398915134036090335.jpg",
+        "price": 1.5
+      }
+    ]
+  }
